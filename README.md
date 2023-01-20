@@ -25,8 +25,8 @@ Nesse sentido, a proposta do case é analisar o dispositivo smart e os dados obt
 - Os participantes do questionário, em média, não cumprem as métricas recomendadas de atividade física diárias: eles não têm 10000 passos diários e não dormem o recomendado por noite.
 
 <p float="center">
-  <img src="https://github.com/biancaportela/bellabeat_analise/blob/e261499fa0bba5ab097ab7dd91200236e52296c4/imagens/media_passos.jpg" width="500" height = "300"/>
-  <img src="https://github.com/biancaportela/bellabeat_analise/blob/e261499fa0bba5ab097ab7dd91200236e52296c4/imagens/sono.jpg" width="500" height = "300" /> 
+  <img src="https://github.com/biancaportela/bellabeat_analise/blob/e261499fa0bba5ab097ab7dd91200236e52296c4/imagens/media_passos.jpg" width="300" height = "150"/>
+  <img src="https://github.com/biancaportela/bellabeat_analise/blob/e261499fa0bba5ab097ab7dd91200236e52296c4/imagens/sono.jpg" width="300" height = "150" /> 
 </p>
 
 - Os participantes também tem menos de 30min de momento muito ativos:

@@ -1,6 +1,6 @@
 # How Can a Wellness Technology Company Play It Smart?
 
-[Você pode ver a análise completa no Jupyeter Notebook](https://github.com/biancaportela/bellabeat_analise/blob/main/bellabeat_analysis.ipynb)
+[Você pode ver a análise completa no Jupyter Notebook](https://github.com/biancaportela/bellabeat_analise/blob/main/bellabeat_analysis.ipynb)
 
 ## Introdução
 
